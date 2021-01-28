@@ -18,8 +18,9 @@ int main(int argc,char *argv[]){
 
     /*especificação de tipos*/
     printf("meu nome e: %s, tenho: %d anos de idade, altura: %.2f e estudei que pi e um numero aproximado de: %lf ...",nome,idade,altura,pi);
-
-    /*--------------------------------------------------- DIgite um numero -----------------------------------------------*/
+    /*--------------------------------------------------- Lendo valores do teclado -----------------------------------------------*/
+    printf("meu nome e: %s, tenho: %d anos de idade, altura: %.2f e estudei que pi e um numero aproximado de: %lf ...",nome,idade,altura,pi);
+  /*--------------------------------------------------- DIgite um numero -----------------------------------------------*/
     /*--------------------------------------------------- DIgite um numero -----------------------------------------------*/
     /*--------------------------------------------------- DIgite um numero -----------------------------------------------*/
     return 0;
