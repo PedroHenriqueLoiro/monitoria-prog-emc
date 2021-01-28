@@ -20,7 +20,6 @@ int main(int argc,char *argv[]){
     printf("meu nome e: %s, tenho: %d anos de idade, altura: %.2f e estudei que pi e um numero aproximado de: %lf ...",nome,idade,altura,pi);
 
     /*--------------------------------------------------- Lendo valores do teclado -----------------------------------------------*/
-    /*--------------------------------------------------- Lendo valores do teclado -----------------------------------------------*/
-    /*--------------------------------------------------- Lendo valores do teclado -----------------------------------------------*/
+    printf("meu nome e: %s, tenho: %d anos de idade, altura: %.2f e estudei que pi e um numero aproximado de: %lf ...",nome,idade,altura,pi);
     return 0;
 }
